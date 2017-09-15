@@ -2,8 +2,8 @@ theme : sky
 
 # 夏休みの課題
 
- ## タイトル
- 「Cat Jump」
+  タイトル
+ ## 「Cat Jump」
 ---
 
  ## ゲーム説明

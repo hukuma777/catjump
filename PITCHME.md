@@ -1,6 +1,8 @@
-theme : sky
 
+gitpitc.URL
 https://gitpitch.com/hukuma777/catjump/master?grs=github&t=sky
+
+--- 
 ## 夏休みの課題
 
   タイトル
